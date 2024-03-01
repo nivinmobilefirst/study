@@ -1,0 +1,1 @@
+const sample2 ='hello';
